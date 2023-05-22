@@ -1,1 +1,1 @@
-# cocktailAPI
+First you need to run the make_db.py file to create a database to remember the sessions, then you can use the API.py file which will ask you for your username and cocktail name. After running the program, you will receive a brief description of the preparation (for more information, you can go to the json file that is created at the same time), you will receive a notification, and your session will be remembered by the database. 
